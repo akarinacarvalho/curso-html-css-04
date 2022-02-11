@@ -8,6 +8,7 @@
 
 /* Home */
 @import "./global/home/introducao.css";
+@import "./global/home/tecnologia.css";
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
